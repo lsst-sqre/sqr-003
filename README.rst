@@ -1,6 +1,6 @@
 .. image:: https://img.shields.io/badge/sqr--003-lsst.io-brightgreen.svg
    :target: https://sqr-003.lsst.io
-.. image:: https://github.com/lsst-sqre/sqre-003/workflows/CI/badge.svg
+.. image:: https://github.com/lsst-sqre/sqr-003/workflows/CI/badge.svg
    :target: https://github.com/lsst-sqre/sqr-003/actions/
 ..
   Uncomment this section and modify the DOI strings to include a Zenodo DOI badge in the README
