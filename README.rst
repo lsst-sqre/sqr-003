@@ -1,10 +1,10 @@
-#############################################
-SQR-003 Futurizing your python code - a HOWTO
-#############################################
+########################
+SQR-003 SQuaRE Overview
+########################
 
 How to use futurize to make your python run under 2 and 3
 
-View this technote at http://sqr-003.lsst.codes
+View this technote at http://sqr-003.lsst.io
 
 
 
